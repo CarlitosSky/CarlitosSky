@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CarlitosSky/CarlitosSky/output/snake.svg" alt="Snake animation" />
+<p align="center">¡Contacta conmigo!</p>
 
 ###
 
